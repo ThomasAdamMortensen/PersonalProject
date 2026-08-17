@@ -1,10 +1,11 @@
-EDA_modeling.ipynb
+models/EDA_modeling.ipynb
 booli_download.py
 response_base.py
 response_base64.txt
 test_scraper.py
 property_148166.json
 sold_search.html
+apollo_state.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
